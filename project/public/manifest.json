@@ -1,0 +1,24 @@
+{
+  "name": "ORIO Digital Token Rewards",
+  "short_name": "ORIO Rewards",
+  "description": "Earn digital tokens for every 4-Way Concealed Divertor purchase and redeem them for amazing rewards",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e40af",
+  "theme_color": "#1d4ed8",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/SW-1706.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/SW-1706.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
